@@ -1,0 +1,54 @@
+*{
+    padding:0;
+}
+    body{
+    background:url(https://i.ytimg.com/vi/7dkrwPrmH-Y/maxresdefault.jpg);
+    background-size:cover;    
+        
+    }
+    figcaption {
+        color: black;
+        font-style: italic;
+        padding: 2px;
+        text-align: center;
+        }
+
+        .figImg{
+            width:25%;
+            height:17%;
+            float: left;
+        }
+        .figImg2{
+            width:25%;
+            height:17%;
+            float: left;
+        }
+        .figImg3{
+            width:25%;
+            height:17%;
+            float: left;
+        }
+        .figImg4{
+            width:25%;
+            height:17%;
+            float: left;
+        }
+        .figImg5{
+            width:25%;
+            height:17%;
+            float: left;
+        }
+        .figImg6{
+            width:25%;
+            height:17%;
+            float: left;
+        }
+        
+
+        figure img, figure figcaption{
+            width:100%;
+            height:80%;
+            margin: auto;
+            background-color:white;
+            border-radius: 20px;
+        }
